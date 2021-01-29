@@ -131,6 +131,7 @@ h6, .h06 {
 	line-height: 1.85;
 	text-transform: uppercase;
 	letter-spacing: .2rem;
+	color: white;
 }
 p img {
 	margin: 0;
@@ -1028,7 +1029,7 @@ header .social-links ul li a:focus {
 .main-content-tablecell .row {
 	position: relative;
 	padding-top: 4.2rem;
-	padding-bottom: 15rem;
+	padding-bottom: 30rem;
 }
 
 .main-content-tablecell #counter {
